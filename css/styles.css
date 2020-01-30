@@ -106,7 +106,7 @@ label {
   background: #151515;
 }
 
-/*#paint {
+#paint {
   position: fixed;
   top: 0;
   left: 0;
@@ -116,7 +116,7 @@ label {
   z-index: 100;
 }
 
-#wrapper {
+/*#wrapper {
   position: relative;
   top: 300px;
   background: black;
