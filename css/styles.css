@@ -65,6 +65,7 @@ span.high {
 
 canvas[id*="number"] {
   position: absolute;
+  top: 30px;
   z-index: -1;
 }
 
@@ -164,7 +165,7 @@ label {
     /*background: red;*/
   }
 
-  /*#controls {
+  #controls {
     position: relative;
     top: 0;
     left: 0;
@@ -172,13 +173,14 @@ label {
     pointer-events: initial;
     width: auto;
   }
-  button,
+
+  /*button,
   label {
     font-size: 15px;
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
