@@ -68,10 +68,11 @@ canvas[id*="number"] {
   z-index: -1;
 }
 
-/*button {
+button {
   flex: 1;
 }
-button:hover {
+
+/*button:hover {
   cursor: pointer;
 }
 
