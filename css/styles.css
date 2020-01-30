@@ -63,12 +63,12 @@ span.high {
   color: #3fe687;
 }
 
-/*canvas[id*="number"] {
+canvas[id*="number"] {
   position: absolute;
   z-index: -1;
 }
 
-button {
+/*button {
   flex: 1;
 }
 button:hover {
