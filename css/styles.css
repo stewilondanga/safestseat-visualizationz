@@ -72,11 +72,11 @@ button {
   flex: 1;
 }
 
-/*button:hover {
+button:hover {
   cursor: pointer;
 }
 
-button,
+/*button,
 label {
   background: none;
   border: none;
