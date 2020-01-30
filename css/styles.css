@@ -91,7 +91,7 @@ label {
     sans-serif;
 }
 
-/*#controls {
+#controls {
   position: fixed;
   width: 100%;
   top: 300px;
@@ -101,7 +101,7 @@ label {
   -webkit-display: flex;
 }
 
-#content {
+/*#content {
   color: white;
   background: #151515;
 }
