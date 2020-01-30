@@ -101,12 +101,12 @@ label {
   -webkit-display: flex;
 }
 
-/*#content {
+#content {
   color: white;
   background: #151515;
 }
 
-#paint {
+/*#paint {
   position: fixed;
   top: 0;
   left: 0;
