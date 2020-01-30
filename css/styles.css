@@ -76,7 +76,7 @@ button:hover {
   cursor: pointer;
 }
 
-/*button,
+button,
 label {
   background: none;
   border: none;
@@ -91,7 +91,7 @@ label {
     sans-serif;
 }
 
-#controls {
+/*#controls {
   position: fixed;
   width: 100%;
   top: 300px;
