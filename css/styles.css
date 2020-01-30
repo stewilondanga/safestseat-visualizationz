@@ -17,8 +17,9 @@ body {
 
 .my_social {
   position: absolute;
-  top: 25px;
+  top: 3px;
   left: 25px;
+  z-index: 200;
 }
 
 .my_social a {
