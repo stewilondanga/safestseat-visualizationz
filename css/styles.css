@@ -59,11 +59,11 @@ span {
   font-size: 20px;
 }
 
-/*span.high {
+span.high {
   color: #3fe687;
 }
 
-canvas[id*="number"] {
+/*canvas[id*="number"] {
   position: absolute;
   z-index: -1;
 }
