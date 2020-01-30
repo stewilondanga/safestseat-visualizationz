@@ -9,6 +9,12 @@ body {
   padding: 0;
 }
 
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -33,11 +39,6 @@ body {
 }
 
 
-*,
-*:before,
-*:after {
-  box-sizing: inherit;
-}
 
 h1 {
   font-family: "Roboto Condensed", "Helvetica Neue", Helvetica, Arial,
