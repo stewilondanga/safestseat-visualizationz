@@ -65,7 +65,6 @@ span.high {
 
 canvas[id*="number"] {
   position: absolute;
-  top: 130px;
   z-index: -1;
 }
 
